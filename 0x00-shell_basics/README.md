@@ -11,3 +11,4 @@ Print current working directory
 6-firstdirectory: Make first directory
 7-movethatfile: Move the file betty from /tmp/ to /tmp/my_first_directory
 8-firstdelete: Delete betty file from temporaral directory
+9-firstdirdeletion: Delete my first directory

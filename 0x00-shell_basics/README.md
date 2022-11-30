@@ -1,3 +1,3 @@
-Print current working directory
-List the content of the directory
-Print the home directory
+Print current working directory\n
+List the content of the directory\n
+Print the home directory\n

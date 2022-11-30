@@ -8,3 +8,4 @@ Print current working directory
 
 4-listmorefiles: Display current directory contents with hidden files
 5-listfilesdigitonly: Display current directory contents in long formt, user ids numerically and hidden files
+6-firstdirectory: Make first directory
